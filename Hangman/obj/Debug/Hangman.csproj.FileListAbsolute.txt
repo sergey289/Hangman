@@ -1,0 +1,102 @@
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\Hangman\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Version of the game\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Новая папка\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\sergey\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\sergey\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\GameWindow.g.cs
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.cache
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman_MarkupCompile.lref
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\GameWindow.baml
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.g.resources
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\sergey\Desktop\Hangman\Hangman\obj\Debug\Hangman.pdb

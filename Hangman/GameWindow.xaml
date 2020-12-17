@@ -1,0 +1,114 @@
+﻿<Window x:Class="Hangman.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hangman"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="450" Width="826.471" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="Resources/pap5.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid x:Name="grid1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="225*"/>
+            <RowDefinition Height="194*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="145*"/>
+            <ColumnDefinition Width="446*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="btn_A" Tag="a"  Content="A" HorizontalAlignment="Left" Margin="180,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_B" Tag="b" Content="B" HorizontalAlignment="Left" Margin="3,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1" />
+        <Button x:Name="btn_C" Tag="c" Content="C" HorizontalAlignment="Left" Margin="54,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_D" Tag="d" Content="D" HorizontalAlignment="Left" Margin="106,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_E" Tag="e" Content="E" HorizontalAlignment="Left" Margin="13,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_F" Tag="f" Content="F" HorizontalAlignment="Left" Margin="65,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_G" Tag="g" Content="G" HorizontalAlignment="Left" Margin="117,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_H" Tag="h" Content="H" HorizontalAlignment="Left" Margin="169,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_I" Tag="i" Content="I" HorizontalAlignment="Left" Margin="221,20,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_j" Tag="j" Content="J" HorizontalAlignment="Left" Margin="183,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_K" Tag="k" Content="K" HorizontalAlignment="Left" Margin="5,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_L" Tag="l" Content="L" HorizontalAlignment="Left" Margin="56,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_M" Tag="m" Content="M" HorizontalAlignment="Left" Margin="106,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_N" Tag="n" Content="N" HorizontalAlignment="Left" Margin="13,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_O" Tag="o" Content="0" HorizontalAlignment="Left" Margin="64,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_P" Tag="p" Content="P" HorizontalAlignment="Left" Margin="116,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_Q" Tag="q" Content="Q" HorizontalAlignment="Left" Margin="168,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_R" Tag="r" Content="R" HorizontalAlignment="Left" Margin="219,72,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_S" Tag="s" Content="S" HorizontalAlignment="Left" Margin="211,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.ColumnSpan="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_T" Tag="t" Content="T" HorizontalAlignment="Left" Margin="34,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_U" Tag="u" Content="U" HorizontalAlignment="Left" Margin="85,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_V" Tag="v" Content="V" HorizontalAlignment="Left" Margin="136,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="1" Click="Click" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_W" Tag="w" Content="W" HorizontalAlignment="Left" Margin="42,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_X" Tag="x" Content="X" HorizontalAlignment="Left" Margin="91,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_Y" Tag="y" Content="Y" HorizontalAlignment="Left" Margin="142,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_Z" Tag="z" Content="Z" HorizontalAlignment="Left" Margin="191,130,0,0" VerticalAlignment="Top" Width="43" Height="38" RenderTransformOrigin="1.451,0.666" FontSize="23" FontFamily="Viner Hand ITC" FontWeight="Bold" Background="#FF108CE2" Foreground="White" Grid.Column="2" Click="Click" Grid.Row="1"/>
+        <Button x:Name="btn_back"  HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Width="31" Height="29"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="0.323,-0.069" Click="btn_back_Click"  >
+            <Button.Content>
+
+
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Resources/back.png"/>
+
+                </StackPanel>
+            </Button.Content>
+
+
+        </Button>
+        
+            <Button x:Name="btn_new_word" Content="New word" HorizontalAlignment="Left" Margin="8,69,0,0" VerticalAlignment="Top" Width="95" Background="Transparent" BorderBrush="Transparent" FontSize="18" FontFamily="Viner Hand ITC" Foreground="#FF1F21DF" Click="btn_new_word_Click"/>
+        <Button x:Name="btn_new_game" Content="New game" HorizontalAlignment="Left" Margin="9,116,0,0" VerticalAlignment="Top" Width="95" Background="Transparent" BorderBrush="Transparent" FontSize="18" FontFamily="Viner Hand ITC" Foreground="#FFA91E1E" Click="btn_new_game_Click"/>
+        <Image x:Name="img_hangman" HorizontalAlignment="Left" Height="185" Margin="270,7,-8,0" VerticalAlignment="Top" Width="184" Source="Resources/pic1.png" Grid.Column="2" x:FieldModifier="public"/>
+
+        <TextBox x:Name="txt_word"   HorizontalAlignment="Left" Height="66" Margin="9,149,0,0" TextWrapping="Wrap" Text="**************" VerticalAlignment="Top" Width="348" FontSize="48" FontWeight="Bold" Background="Transparent" BorderBrush="Transparent" TextAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" />
+
+        <Label x:Name="lab_error_Copy" Tag="f" Content="x" HorizontalAlignment="Left" Margin="67,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Grid.Column="2" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_A" Tag="a"  Content="x" HorizontalAlignment="Left" Margin="182,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_B" Tag="b" Content="x" HorizontalAlignment="Left" Margin="6,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1"  Visibility="Hidden" Grid.RowSpan="2"/>
+        <Label x:Name="lab_error_C" Tag="c" Content="x" HorizontalAlignment="Left" Margin="57,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_D" Tag="d" Content="x" HorizontalAlignment="Left" Margin="109,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1" Visibility="Hidden" Grid.RowSpan="2" Grid.ColumnSpan="2" />
+        <Label x:Name="lab_error_E" Tag="e" Content="x" HorizontalAlignment="Left" Margin="16,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_G" Tag="g" Content="x" HorizontalAlignment="Left" Margin="120,210,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Grid.Column="2" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_H" Tag="h" Content="x" HorizontalAlignment="Left" Margin="171,209,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Grid.Column="2" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_I" Tag="i" Content="x" HorizontalAlignment="Left" Margin="224,210,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Grid.Column="2" Visibility="Hidden" Grid.RowSpan="2" />
+        <Label x:Name="lab_error_J" Tag="j" Content="x" HorizontalAlignment="Left" Margin="187,37,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_K" Tag="k" Content="x" HorizontalAlignment="Left" Margin="8,37,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_L" Tag="l" Content="x" HorizontalAlignment="Left" Margin="59,37,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_error_M" Tag="m" Content="x" HorizontalAlignment="Left" Margin="109,36,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1"  Visibility="Hidden" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Label x:Name="lab_error_N" Tag="n" Content="x" HorizontalAlignment="Left" Margin="16,36,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_error_O" Tag="o" Content="x" HorizontalAlignment="Left" Margin="67,36,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_P" Tag="p" Content="x" HorizontalAlignment="Left" Margin="119,37,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_error_Q" Tag="q" Content="x" HorizontalAlignment="Left" Margin="171,36,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_error_R" Tag="r" Content="x" HorizontalAlignment="Left" Margin="222,37,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_S" Tag="s" Content="x" HorizontalAlignment="Left" Margin="214,94,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.ColumnSpan="2"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_error_T" Tag="t" Content="x" HorizontalAlignment="Left" Margin="37,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_U" Tag="u" Content="x" HorizontalAlignment="Left" Margin="88,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_V" Tag="v" Content="x" HorizontalAlignment="Left" Margin="139,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="1"  Visibility="Hidden" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Label x:Name="lab_error_W" Tag="w" Content="x" HorizontalAlignment="Left" Margin="45,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_X" Tag="x" Content="x" HorizontalAlignment="Left" Margin="94,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_Y" Tag="y" Content="x" HorizontalAlignment="Left" Margin="145,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2" Visibility="Hidden" Grid.Row="1" />
+        <Label x:Name="lab_error_Z" Tag="z" Content="x" HorizontalAlignment="Left" Margin="194,95,0,0" VerticalAlignment="Top" FontSize="60" Foreground="#FFFF4949" RenderTransformOrigin="-0.273,0.909"  Grid.Column="2"  Visibility="Hidden" Grid.Row="1"/>
+        <Label x:Name="lab_gameover" Content="Game over" Grid.Column="1" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" FontSize="55" FontFamily="Snap ITC" Visibility="Hidden" Grid.ColumnSpan="2">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFDA0D0D" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label x:Name="lab_win" Content="You win" Grid.Column="1" HorizontalAlignment="Left" Margin="72,64,0,0" VerticalAlignment="Top" FontSize="50" Grid.ColumnSpan="2" Width="242" FontFamily="Shrikhand" Visibility="Hidden" >
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFA3F000" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+
+
+
+    </Grid>
+</Window>
