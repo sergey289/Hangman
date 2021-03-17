@@ -1,12 +1,17 @@
-## Hangman
+# 💀 Hangman
 
 Hangman is a game where a player has limited attempts to guess a secret word. The player is allowed to guess a letter contained in the secret or guess the entire secret. Each incorrect guess uses an attempt. When all attempts have been made or if the word has been guessed correctly the game ends.
 
-### How to play
+## How to play ?
 
-when starting the game, select a category, each category contains five, six, words and choose a difficulty level, the difficulty level affects the complexity of the words and the number of allowed mistakes.
+When starting the game:
 
-### ScreenShots 📸 of the game :
+
+- select a category, each category contains five, six, words
+
+- choose a difficulty level, the difficulty level affects the complexity of the words and the number of allowed mistakes.
+
+## ScreenShots 📸:
 
 <img src="https://user-images.githubusercontent.com/63552702/97992425-5a092180-1deb-11eb-9003-46fd55fb496d.png" width="400" height="500" />
 
