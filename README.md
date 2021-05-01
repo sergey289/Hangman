@@ -7,9 +7,9 @@ Hangman is a game where a player has limited attempts to guess a secret word. Th
 When starting the game:
 
 
-- select a category, each category contains five, six, words
+- **select a category** -each category contains five, six, words
 
-- choose a difficulty level, the difficulty level affects the complexity of the words and the number of allowed mistakes.
+- **choose a difficulty level**-the difficulty level affects the complexity of the words and the number of allowed mistakes.
 
 ## ScreenShots 📸:
 
